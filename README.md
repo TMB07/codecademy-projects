@@ -1,0 +1,1 @@
+# codecademy-projects in JavaScript
